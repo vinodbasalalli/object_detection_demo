@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Guns_Modified_Google_Colab</folder>
+	<filename>36.jpg</filename>
+	<path>/home/vinodb/Documents/My_Projects/Google_NSFW/Image_Moderation_Trial_Dataset/Objectionable_Content/Weapons/Guns_Modified_Google_Colab/36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>77</ymin>
+			<xmax>800</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
