@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Guns_Modified_Google_Colab</folder>
-	<filename>12.jpg</filename>
-	<path>/home/vinodb/Documents/My_Projects/Google_NSFW/Image_Moderation_Trial_Dataset/Objectionable_Content/Weapons/Guns_Modified_Google_Colab/12.jpg</path>
+	<filename>72.jpg</filename>
+	<path>/home/vinodb/Documents/My_Projects/Google_NSFW/Image_Moderation_Trial_Dataset/Objectionable_Content/Weapons/Guns_Modified_Google_Colab/72.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2</xmin>
-			<ymin>74</ymin>
-			<xmax>298</xmax>
-			<ymax>325</ymax>
+			<xmin>535</xmin>
+			<ymin>281</ymin>
+			<xmax>796</xmax>
+			<ymax>525</ymax>
 		</bndbox>
 	</object>
 </annotation>

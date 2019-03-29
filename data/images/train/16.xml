@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>Guns_Modified_Google_Colab</folder>
 	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<path>/home/vinodb/Documents/My_Projects/Google_NSFW/Image_Moderation_Trial_Dataset/Objectionable_Content/Weapons/Guns_Modified_Google_Colab/16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>2</xmin>
+			<ymin>74</ymin>
+			<xmax>276</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 </annotation>
