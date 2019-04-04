@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>307.jpg</filename>
+	<path>/home/vinodb/Documents/My_Projects/Google_NSFW/Image_Moderation_Trial_Dataset/Objectionable_Content/Google_Images_For_Anlysis/Annotation_Files/train/307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>66</ymin>
+			<xmax>773</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
